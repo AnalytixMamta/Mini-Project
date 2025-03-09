@@ -47,7 +47,9 @@ python library_management.py
 
 ## 📜 How to Use
 1️⃣ **Run the script** and select an option from the menu.
+
 2️⃣ **Add books and members** before issuing or buying books.
+
 3️⃣ **Issue/Buy books**, and transactions will be recorded in the database.
 
 
